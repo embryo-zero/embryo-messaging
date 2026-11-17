@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Messaging
+
+**Embryo Messaging** is Embryo-Zero's fork of [nats-server](https://github.com/nats-io/nats-server), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
   <img src="logos/nats-horizontal-color.png" width="300" alt="NATS Logo">
 </p>
